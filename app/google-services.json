@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "73750378893",
+    "firebase_url": "https://admin-food-of-shivar-dc434-default-rtdb.firebaseio.com",
+    "project_id": "admin-food-of-shivar-dc434",
+    "storage_bucket": "admin-food-of-shivar-dc434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73750378893:android:dad5813488294bd67625c4",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodofshivar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLUzVsSxU5c4-apHd53g8-T5Bdlq_yGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73750378893:android:cc96fc19cde9bf4e7625c4",
+        "android_client_info": {
+          "package_name": "com.example.foodofshivar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLUzVsSxU5c4-apHd53g8-T5Bdlq_yGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

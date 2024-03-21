@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food of Shivar</string>
+    <string name="next">Next</string>
+    <string name="enjoy_restaurant_quality_meals_nat_home">Enjoy Restaurant Quality Meals\nat Home</string>
+    <string name="design_by_nsaurabh">Design By\nSaurabh</string>
+    <string name="deliever_favorite_food">Deliever Favorite Food</string>
+    <string name="food_of_shivar">Food of Shivar</string>
+    <string name="email_or_phone_number">Email or Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cart">cart</string>
+</resources>
